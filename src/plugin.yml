@@ -1,0 +1,8 @@
+main: me.trumpetplayer2.Java.MCPlus.Main
+name: MCPlus
+version: 1.0
+author: Trumpetplayer2
+api-version: 1.16
+
+commands:
+  MCPlus:
